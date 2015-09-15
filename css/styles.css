@@ -1,0 +1,44 @@
+body {
+    background-color: #871795;
+    color: #fff;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.container-full {
+    padding-top: 13%;
+    background-color: #871795;
+    margin: 0 auto;
+}
+
+.input-group {
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+.input-group-lg>.form-control,
+.input-group-lg>.input-group-addon,
+.input-group-lg>.input-group-btn>.btn {
+    border: none;
+    
+    height: 60px;
+    margin-top: 30px;
+}
+
+.btn-devio {
+    background-color: #17C3C2;
+    border: none;
+}
+
+.btn-devio:hover {
+    background-color: #21D8D6;
+    color: #fff;
+
+}
